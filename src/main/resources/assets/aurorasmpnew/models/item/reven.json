@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/reven",
+  "textures": {
+    "2": "aurorasmpnew:blocks/reven",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "replace": "false",
+  "values": [
+    "minecraft:air",
+    "aurorasmpnew:cristal_amarelo",
+    "aurorasmpnew:cristal_azul",
+    "aurorasmpnew:cristal_branco",
+    "aurorasmpnew:cristal_ciano",
+    "aurorasmpnew:cristal_laranja",
+    "aurorasmpnew:cristal_roxo",
+    "aurorasmpnew:cristal_verde",
+    "aurorasmpnew:cristal_vermelho",
+    "aurorasmpnew:cristal_preto"
+  ]
+}

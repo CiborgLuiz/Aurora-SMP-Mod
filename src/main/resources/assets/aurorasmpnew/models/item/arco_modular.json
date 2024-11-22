@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/thundering_pulse_standby",
+  "textures": {
+    "0": "aurorasmpnew:blocks/thundering_pulse",
+    "particle": "aurorasmpnew:items/thundering_pulse"
+  }
+}

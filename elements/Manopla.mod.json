@@ -1,0 +1,29 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "manopla",
+    "customModelName": "manopla:default",
+    "name": "§7§lManopla",
+    "specialInfo": [
+      "§6§lUm item de caracter SUPERIOR"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AuroraItens"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 5,
+    "efficiency": 4.0,
+    "attackSpeed": 1.7999999999999998,
+    "enchantability": 2,
+    "damageVsEntity": 48.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

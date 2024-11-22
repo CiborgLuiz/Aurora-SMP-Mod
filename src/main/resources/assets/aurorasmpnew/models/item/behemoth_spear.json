@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/behemoth_spear",
+  "textures": {
+    "0": "aurorasmpnew:blocks/lanca_behemoth",
+    "particle": "aurorasmpnew:items/lanca_behemoth"
+  }
+}

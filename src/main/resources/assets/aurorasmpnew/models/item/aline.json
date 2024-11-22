@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/aline",
+  "textures": {
+    "1": "aurorasmpnew:blocks/aline",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

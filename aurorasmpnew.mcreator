@@ -1,0 +1,1823 @@
+{
+  "mod_elements": [
+    {
+      "name": "Auroraencyclopedia",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "auroraencyclopedia",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/auroraencyclopedia.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/AuroraencyclopediaItem.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "AuroraItens",
+      "type": "tab",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aurora_itens",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "AsasDeAnjo",
+      "type": "animatedarmor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "asas_de_anjo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/AsasDeAnjoItem.java",
+          "src/main/java/net/mcreator/aurorasmpnew/client/renderer/AsasDeAnjoArmorRenderer.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/asas_de_anjo_chestplate.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/model/AsasDeAnjoModel.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "AsasDeAnjoBodyTickEvent",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "asas_de_anjo_body_tick_event",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/AsasDeAnjoBodyTickEventProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "FlyEffectStartedapplied",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fly_effect_startedapplied",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/FlyEffectStartedappliedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "FlyEffectExpires",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fly_effect_expires",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/FlyEffectExpiresProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Fly",
+      "type": "potioneffect",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fly",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/potion/FlyMobEffect.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "JasonKatana",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jason_katana",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/jason_katana.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/JasonKatanaItem.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Bleeding",
+      "type": "potioneffect",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bleeding",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/potion/BleedingMobEffect.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Bleedingprocedureeffect",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bleedingprocedureeffect",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/BleedingprocedureeffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "JasonKatanaLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jason_katana_living_entity_is_hit_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/JasonKatanaLivingEntityIsHitWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CigarroRightclicked",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cigarro_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CigarroRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Cigarro",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cigarro",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/cigarro.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/CigarroItem.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Manopla",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manopla",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/manopla.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/ManoplaItem.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "FoiceTheClown",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "foice_the_clown",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/foice_the_clown.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/FoiceTheClownItem.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "BehemothSpear",
+      "type": "rangeditem",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "behemoth_spear",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/entity/BehemothSpearEntity.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/behemoth_spear.json",
+          "src/main/java/net/mcreator/aurorasmpnew/client/renderer/BehemothSpearRenderer.java",
+          "src/main/java/net/mcreator/aurorasmpnew/item/BehemothSpearItem.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "BehemothSpearRangedItemUsed",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "behemoth_spear_ranged_item_used",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/BehemothSpearRangedItemUsedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "TridenteModular",
+      "type": "rangeditem",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tridente_modular",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/client/renderer/TridenteModularRenderer.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/tridente_modular.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/TridenteModularItem.java",
+          "src/main/java/net/mcreator/aurorasmpnew/entity/TridenteModularEntity.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "TridenteModularRangedItemUsed",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tridente_modular_ranged_item_used",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/TridenteModularRangedItemUsedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "EspadaModular",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "espada_modular",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/EspadaModularItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/espada_modular.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "PeitoralModularBaubleIsEquipped",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peitoral_modular_bauble_is_equipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/PeitoralModularBaubleIsEquippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "PeitoralModularBaubleIsUnequipped",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peitoral_modular_bauble_is_unequipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/PeitoralModularBaubleIsUnequippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "PeitoralModular",
+      "type": "curiosbauble",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peitoral_modular",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/peitoral_modular.json",
+          "src/main/java/net/mcreator/aurorasmpnew/client/renderer/PeitoralModularRenderer.java",
+          "src/main/java/net/mcreator/aurorasmpnew/item/PeitoralModularItem.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "FlechaMagica",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flecha_magica",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/FlechaMagicaItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/flecha_magica.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "FlechaMagicaRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flecha_magica_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/aurorasmpnew/recipes/flecha_magica_recipe.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "ArcoModularRangedItemUsed",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arco_modular_ranged_item_used",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/ArcoModularRangedItemUsedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "ArcoModular",
+      "type": "rangeditem",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arco_modular",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/arco_modular.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/ArcoModularItem.java",
+          "src/main/java/net/mcreator/aurorasmpnew/entity/ArcoModularEntity.java",
+          "src/main/java/net/mcreator/aurorasmpnew/client/renderer/ArcoModularRenderer.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Leviathan",
+      "type": "armor",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leviathan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/leviathan_chestplate.json",
+          "src/main/resources/assets/aurorasmpnew/models/item/leviathan_boots.json",
+          "src/main/resources/assets/aurorasmpnew/models/item/leviathan_leggings.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/LeviathanItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/leviathan_helmet.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "LeviathanScale",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leviathan_scale",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/leviathan_scale.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/LeviathanScaleItem.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "AMOEBARightclicked",
+      "type": "procedure",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amoeba_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/AMOEBARightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "AMOEBA",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amoeba",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/AMOEBAItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/amoeba.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "TiaraBaubleIsEquipped",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tiara_bauble_is_equipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/TiaraBaubleIsEquippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "TiaraBaubleIsUnequipped",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tiara_bauble_is_unequipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/TiaraBaubleIsUnequippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Tiara",
+      "type": "curiosbauble",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tiara",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/TiaraItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/tiara.json",
+          "src/main/java/net/mcreator/aurorasmpnew/client/renderer/TiaraRenderer.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalAmarelo",
+      "type": "curiosbauble",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_amarelo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/CristalAmareloItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/cristal_amarelo.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalAzul",
+      "type": "curiosbauble",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_azul",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/CristalAzulItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/cristal_azul.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalBranco",
+      "type": "curiosbauble",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_branco",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/CristalBrancoItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/cristal_branco.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalCiano",
+      "type": "curiosbauble",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_ciano",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/CristalCianoItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/cristal_ciano.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalLaranja",
+      "type": "curiosbauble",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_laranja",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/CristalLaranjaItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/cristal_laranja.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalRoxo",
+      "type": "curiosbauble",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_roxo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/CristalRoxoItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/cristal_roxo.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalVerde",
+      "type": "curiosbauble",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_verde",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/cristal_verde.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/CristalVerdeItem.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalVermelho",
+      "type": "curiosbauble",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_vermelho",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/CristalVermelhoItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/cristal_vermelho.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalPreto",
+      "type": "curiosbauble",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_preto",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/cristal_preto.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/CristalPretoItem.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalAmareloWhileBaubleIsEquippedTick",
+      "type": "procedure",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_amarelo_while_bauble_is_equipped_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalAmareloWhileBaubleIsEquippedTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalAzulWhileBaubleIsEquippedTick",
+      "type": "procedure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_azul_while_bauble_is_equipped_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalAzulWhileBaubleIsEquippedTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalBrancoWhileBaubleIsEquippedTick",
+      "type": "procedure",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_branco_while_bauble_is_equipped_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalBrancoWhileBaubleIsEquippedTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalCianoWhileBaubleIsEquippedTick",
+      "type": "procedure",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_ciano_while_bauble_is_equipped_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalCianoWhileBaubleIsEquippedTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalLaranjaWhileBaubleIsEquippedTick",
+      "type": "procedure",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_laranja_while_bauble_is_equipped_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalLaranjaWhileBaubleIsEquippedTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalRoxoBaubleIsEquipped",
+      "type": "procedure",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_roxo_bauble_is_equipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalRoxoBaubleIsEquippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalRoxoBaubleIsUnequipped",
+      "type": "procedure",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_roxo_bauble_is_unequipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalRoxoBaubleIsUnequippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalVerdeBaubleIsEquipped",
+      "type": "procedure",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_verde_bauble_is_equipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalVerdeBaubleIsEquippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalVerdeBaubleIsUnequipped",
+      "type": "procedure",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_verde_bauble_is_unequipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalVerdeBaubleIsUnequippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalVerdeWhileBaubleIsEquippedTick",
+      "type": "procedure",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_verde_while_bauble_is_equipped_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalVerdeWhileBaubleIsEquippedTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalVermelhoBaubleIsEquipped",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_vermelho_bauble_is_equipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalVermelhoBaubleIsEquippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalVermelhoBaubleIsUnequipped",
+      "type": "procedure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_vermelho_bauble_is_unequipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalVermelhoBaubleIsUnequippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalVermelhoWhileBaubleIsEquippedTick",
+      "type": "procedure",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_vermelho_while_bauble_is_equipped_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalVermelhoWhileBaubleIsEquippedTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalPretoWhileBaubleIsEquippedTick",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_preto_while_bauble_is_equipped_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalPretoWhileBaubleIsEquippedTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalPretoBaubleIsEquipped",
+      "type": "procedure",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_preto_bauble_is_equipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalPretoBaubleIsEquippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "CristalPretoBaubleIsUnequipped",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cristal_preto_bauble_is_unequipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CristalPretoBaubleIsUnequippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "ItensModulares",
+      "type": "tag",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itens_modulares",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/aurorasmpnew/tags/items/itens_modulares.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "ItensModularesKey",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itens_modulares_key",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/network/ItensModularesKeyMessage.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "ItensModularesGUI",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itens_modulares_gui",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/network/ItensModularesGUISlotMessage.java",
+          "src/main/java/net/mcreator/aurorasmpnew/client/gui/ItensModularesGUIScreen.java",
+          "src/main/java/net/mcreator/aurorasmpnew/world/inventory/ItensModularesGUIMenu.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "ItensModularesKeyOnKeyPressed",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itens_modulares_key_on_key_pressed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/ItensModularesKeyOnKeyPressedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Itensmodulares1",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itensmodulares_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/Itensmodulares1Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Itensmodulares4",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itensmodulares_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/Itensmodulares4Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Itensmodulares2",
+      "type": "procedure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itensmodulares_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/Itensmodulares2Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Itensmodulares3",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itensmodulares_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/Itensmodulares3Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "Itensmodularesprocedure",
+      "type": "procedure",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itensmodularesprocedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/ItensmodularesprocedureProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "AuroraDimension",
+      "type": "dimension",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aurora_dimension",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/world/teleporter/AuroraDimensionPortalShape.java",
+          "src/main/java/net/mcreator/aurorasmpnew/block/AuroraDimensionPortalBlock.java",
+          "src/main/resources/assets/aurorasmpnew/models/block/aurora_dimension_portal_ew.json",
+          "src/main/java/net/mcreator/aurorasmpnew/world/dimension/AuroraDimensionDimension.java",
+          "src/main/java/net/mcreator/aurorasmpnew/item/AuroraDimensionItem.java",
+          "src/main/resources/data/aurorasmpnew/dimension/aurora_dimension.json",
+          "src/main/resources/assets/aurorasmpnew/models/block/aurora_dimension_portal_ns.json",
+          "src/main/resources/data/aurorasmpnew/dimension_type/aurora_dimension.json",
+          "src/main/resources/assets/aurorasmpnew/blockstates/aurora_dimension_portal.json",
+          "src/main/java/net/mcreator/aurorasmpnew/world/teleporter/AuroraDimensionTeleporter.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/aurora_dimension.json"
+        ]
+      },
+      "path": "~/Nao Artefatos"
+    },
+    {
+      "name": "Hollow",
+      "type": "tool",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hollow",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/hollow.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/HollowItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Isotita",
+      "type": "tool",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "isotita",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/isotita.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/IsotitaItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Typer",
+      "type": "tool",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "typer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/TyperItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/typer.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Warrion",
+      "type": "tool",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warrion",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/WarrionItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/warrion.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Kairos",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kairos",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/kairos.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/KairosItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Ruky",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruky",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/ruky.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/RukyItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "WillianMutuwa",
+      "type": "tool",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "willian_mutuwa",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/willian_mutuwa.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/WillianMutuwaItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Sculp",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sculp",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/SculpItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/sculp.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Ziul",
+      "type": "tool",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ziul",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/ZiulItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/ziul.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "YunoBloodmoon",
+      "type": "tool",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yuno_bloodmoon",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/yuno_bloodmoon.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/YunoBloodmoonItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Leobargue",
+      "type": "tool",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leobargue",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/leobargue.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/LeobargueItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Isakiel",
+      "type": "tool",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "isakiel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/isakiel.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/IsakielItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Suicciniv",
+      "type": "tool",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suicciniv",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/SuiccinivItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/suicciniv.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Reven",
+      "type": "tool",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reven",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/RevenItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/reven.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Rumber",
+      "type": "tool",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rumber",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/rumber.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/RumberItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Aline",
+      "type": "tool",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aline",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/aline.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/AlineItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Ray",
+      "type": "tool",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ray",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/ray.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/RayItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Dust",
+      "type": "tool",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dust",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/DustItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/dust.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Hotto",
+      "type": "tool",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hotto",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/hotto.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/HottoItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Kammu",
+      "type": "tool",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kammu",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/kammu.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/KammuItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Typhon",
+      "type": "tool",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "typhon",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/typhon.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/TyphonItem.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "ATY",
+      "type": "tool",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aty",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/ATYItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/aty.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "ATYPower",
+      "type": "tool",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aty_power",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/ATYPowerItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/aty_power.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Num",
+      "type": "tool",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "num",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/NumItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/num.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "Crucifixo",
+      "type": "item",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crucifixo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/CrucifixoItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/crucifixo.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "CrucifixoRightclicked",
+      "type": "procedure",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crucifixo_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/CrucifixoRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Inferiores"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "voar",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "encyclopediaopen",
+      "files": [
+        "encyclopediaopen"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "encyclopediapage",
+      "files": [
+        "encyclopediapage"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "amoeba",
+      "files": [
+        "amoeba"
+      ],
+      "category": "player",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.aurorasmpnew.cristal_roxo": "§5§lCristal Roxo",
+      "item.aurorasmpnew.cristal_laranja": "§6§lCristal Laranja",
+      "item.aurorasmpnew.reven": "Reven",
+      "item.aurorasmpnew.willian_mutuwa": "Willian Mutuwa",
+      "item.aurorasmpnew.leviathan_leggings": "§b§lLeviathan Leggings",
+      "item.aurorasmpnew.manopla": "§7§lManopla",
+      "item.aurorasmpnew.hotto": "Hotto",
+      "item.aurorasmpnew.crucifixo": "§fCrucifixo",
+      "key.aurorasmpnew.itens_modulares_key": "Itens Modulares Menu",
+      "item.aurorasmpnew.asas_de_anjo_boots": "Asas De Anjo Boots",
+      "item.aurorasmpnew.suicciniv": "Suicciniv",
+      "item.aurorasmpnew.isotita": "Isótita",
+      "item.aurorasmpnew.peitoral_modular": "§3§lPeitoral Modular",
+      "item.aurorasmpnew.tridente_modular": "§3§lTridente modular",
+      "itemGroup.tabaurora_itens": "Aurora Itens",
+      "item.aurorasmpnew.cristal_branco": "§f§lCristal Branco",
+      "item.aurorasmpnew.num": "38443-115",
+      "item.aurorasmpnew.asas_de_anjo_chestplate": "§6§lAsas De Anjo",
+      "item.aurorasmpnew.leviathan_chestplate": "§b§lLeviathan Body",
+      "item.aurorasmpnew.behemoth_spear": "§f§lBehemoth Spear",
+      "subtitles.encyclopediaopen": "",
+      "item.aurorasmpnew.kammu": "Kammu",
+      "item.aurorasmpnew.rumber": "Rumber",
+      "item.aurorasmpnew.tiara": "§8§lTiara",
+      "item.aurorasmpnew.warrion": "Warrion",
+      "item.aurorasmpnew.cristal_ciano": "§b§lCristal Ciano",
+      "item.aurorasmpnew.leviathan_boots": "§b§lLeviathan Boots",
+      "item.aurorasmpnew.aty_power": "ATY Power",
+      "item.aurorasmpnew.isakiel": "Isakiel",
+      "effect.aurorasmpnew.fly": "fly",
+      "item.aurorasmpnew.amoeba": "§a§lAMOEBA",
+      "item.aurorasmpnew.leviathan_scale": "§b§lLeviathan Scale",
+      "item.aurorasmpnew.cristal_azul": "§1§lCristal Azul",
+      "item.aurorasmpnew.leviathan_helmet": "§b§lLeviathan Helmet",
+      "item.aurorasmpnew.dust": "Dust",
+      "item.aurorasmpnew.jason_katana": "§4§lJason Katana",
+      "item.aurorasmpnew.ziul": "Ziul",
+      "item.aurorasmpnew.ray": "Ray",
+      "item.aurorasmpnew.cristal_amarelo": "§e§lCristal Amarelo",
+      "item.aurorasmpnew.cristal_vermelho": "§4§lCristal Vermelho",
+      "item.aurorasmpnew.cigarro": "§f§lCigarro",
+      "item.aurorasmpnew.auroraencyclopedia": "§5§lAurora Encyclopedia",
+      "item.aurorasmpnew.foice_the_clown": "§4§lFoice dupla",
+      "item.aurorasmpnew.typer": "Typer",
+      "item.aurorasmpnew.espada_modular": "§3§lEspada Modular",
+      "item.aurorasmpnew.asas_de_anjo_leggings": "Asas De Anjo Leggings",
+      "item.aurorasmpnew.aline": "Aline",
+      "subtitles.encyclopediapage": "",
+      "item.aurorasmpnew.cristal_preto": "§8§lCristal Preto",
+      "item.aurorasmpnew.asas_de_anjo_helmet": "Asas De Anjo Helmet",
+      "item.aurorasmpnew.yuno_bloodmoon": "Yuno Bloodmoon",
+      "item.aurorasmpnew.flecha_magica": "§lFlecha Magica",
+      "item.aurorasmpnew.typhon": "Typhon",
+      "item.aurorasmpnew.sculp": "Sculp",
+      "item.aurorasmpnew.arco_modular": "§3§lArco Modular",
+      "item.aurorasmpnew.ruky": "Ruky",
+      "item.aurorasmpnew.kairos": "Kairos",
+      "item.aurorasmpnew.leobargue": "Leobargue",
+      "effect.aurorasmpnew.bleeding": "bleeding",
+      "item.aurorasmpnew.cristal_verde": "§a§lCristal Verde",
+      "item.aurorasmpnew.hollow": "Hollow",
+      "subtitles.amoeba": "",
+      "item.aurorasmpnew.aty": "ATY",
+      "item.aurorasmpnew.aurora_dimension": "Aurora Dimension Portal Igniter"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Superiores",
+        "children": []
+      },
+      {
+        "name": "Inferiores",
+        "children": []
+      },
+      {
+        "name": "Nao Artefatos",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "aurorasmpnew",
+    "modName": "aurorasmpnew",
+    "version": "1.0.0",
+    "author": "Usuário, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "curios_api",
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.aurorasmpnew",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

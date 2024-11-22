@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/38443-115",
+  "textures": {
+    "2": "aurorasmpnew:blocks/38443-115",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

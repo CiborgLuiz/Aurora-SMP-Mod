@@ -1,0 +1,29 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "joinha",
+    "customModelName": "aty_fire:default",
+    "name": "ATY Power",
+    "specialInfo": [
+      "§6§lUm item de caracter inferior"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AuroraItens"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.2,
+    "enchantability": 22,
+    "damageVsEntity": 33.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "_fv": 39,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 223,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 28,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "onSlotChanged": {
+            "name": "Itensmodularesprocedure"
+          },
+          "onTakenFromSlot": {
+            "name": "Itensmodularesprocedure"
+          },
+          "onStackTransfer": {
+            "name": "Itensmodularesprocedure"
+          },
+          "x": 204,
+          "y": 71
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onSlotChanged": {
+            "name": "Itensmodularesprocedure"
+          },
+          "onTakenFromSlot": {
+            "name": "Itensmodulares1"
+          },
+          "onStackTransfer": {
+            "name": "Itensmodulares1"
+          },
+          "x": 150,
+          "y": 71
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onSlotChanged": {
+            "name": "Itensmodularesprocedure"
+          },
+          "onTakenFromSlot": {
+            "name": "Itensmodulares3"
+          },
+          "onStackTransfer": {
+            "name": "Itensmodulares3"
+          },
+          "x": 204,
+          "y": 125
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onSlotChanged": {
+            "name": "Itensmodularesprocedure"
+          },
+          "onTakenFromSlot": {
+            "name": "Itensmodulares4"
+          },
+          "onStackTransfer": {
+            "name": "Itensmodulares4"
+          },
+          "x": 258,
+          "y": 71
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "onSlotChanged": {
+            "name": "Itensmodularesprocedure"
+          },
+          "onTakenFromSlot": {
+            "name": "Itensmodulares2"
+          },
+          "onStackTransfer": {
+            "name": "Itensmodulares2"
+          },
+          "x": 204,
+          "y": 17
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

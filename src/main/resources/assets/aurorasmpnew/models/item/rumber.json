@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/rumber",
+  "textures": {
+    "1": "aurorasmpnew:blocks/rumber",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

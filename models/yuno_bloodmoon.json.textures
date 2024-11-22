@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "yuno_bloodmoon"
+      },
+      "name": "default"
+    }
+  }
+}

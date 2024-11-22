@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/yuno_bloodmoon",
+  "textures": {
+    "1": "aurorasmpnew:blocks/yuno_bloodmoon",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/trident",
+  "textures": {
+    "0": "aurorasmpnew:blocks/trident",
+    "particle": "aurorasmpnew:items/trident"
+  }
+}

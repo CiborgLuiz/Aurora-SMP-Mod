@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/leobargue",
+  "textures": {
+    "0": "aurorasmpnew:blocks/leobargue",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "espadao",
+    "customModelName": "espadao:default",
+    "name": "§3§lEspada Modular",
+    "specialInfo": [
+      "§6§lUm item de caracter SUPERIOR"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AuroraItens"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 0.6,
+    "enchantability": 2,
+    "damageVsEntity": 80.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/hotto",
+  "textures": {
+    "1": "aurorasmpnew:blocks/hotto",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

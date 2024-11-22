@@ -1,0 +1,23 @@
+{
+  "_fv": 39,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "fly",
+    "icon": "fly.png",
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "FlyEffectStartedapplied"
+    },
+    "onExpired": {
+      "name": "FlyEffectExpires"
+    }
+  }
+}

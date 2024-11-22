@@ -1,0 +1,60 @@
+{
+  "_fv": 39,
+  "_type": "curiosbauble",
+  "definition": {
+    "renderType": 1,
+    "texture": "peitoral",
+    "customModelName": "peitoral-item:default",
+    "name": "§3§lPeitoral Modular",
+    "rarity": "EPIC",
+    "slotType": "BODY",
+    "baubleModel": "ModelCustomModel",
+    "baubleModelTexture": "peitoral.png",
+    "creativeTab": {
+      "value": "CUSTOM:AuroraItens"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "addSlot": true,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "§6§lUm item de caracter SUPERIOR"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "slotAmount": 1,
+    "onEquip": {
+      "name": "PeitoralModularBaubleIsEquipped"
+    },
+    "onUnequip": {
+      "name": "PeitoralModularBaubleIsUnequipped"
+    },
+    "isFood": false,
+    "friendlyPigs": true,
+    "enderMask": true,
+    "rotateModel": false,
+    "translateModel": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "hasModel": true,
+    "animation": "none"
+  }
+}

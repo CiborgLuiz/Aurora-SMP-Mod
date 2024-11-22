@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "thundering_pulse",
+        "1": "almas"
+      },
+      "name": "default"
+    }
+  }
+}

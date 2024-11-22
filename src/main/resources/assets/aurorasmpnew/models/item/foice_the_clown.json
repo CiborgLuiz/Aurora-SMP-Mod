@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/foicetheclown",
+  "textures": {
+    "1": "aurorasmpnew:blocks/foicetheclown",
+    "particle": "aurorasmpnew:items/foicetheclown"
+  }
+}

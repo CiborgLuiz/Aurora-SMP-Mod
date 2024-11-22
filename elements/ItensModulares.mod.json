@@ -1,0 +1,27 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TridenteModular"
+      },
+      {
+        "value": "CUSTOM:EspadaModular"
+      },
+      {
+        "value": "CUSTOM:PeitoralModular"
+      },
+      {
+        "value": "CUSTOM:ArcoModular"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "itens_modulares",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/typhon",
+  "textures": {
+    "0": "aurorasmpnew:blocks/typhon",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

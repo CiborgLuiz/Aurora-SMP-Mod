@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tampa",
+        "1": "amoebalogo"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "encyclopediaopen": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "aurorasmpnew:encyclopediaopen",
+        "stream": false
+      }
+    ]
+  },
+  "encyclopediapage": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "aurorasmpnew:encyclopediapage",
+        "stream": false
+      }
+    ]
+  },
+  "amoeba": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "aurorasmpnew:amoeba",
+        "stream": false
+      }
+    ]
+  }
+}

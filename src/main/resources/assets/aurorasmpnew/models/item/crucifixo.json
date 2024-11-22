@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/crucifixo",
+  "textures": {
+    "1": "aurorasmpnew:blocks/crucifixo",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

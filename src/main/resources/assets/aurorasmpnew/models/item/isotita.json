@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/isotita",
+  "textures": {
+    "2": "aurorasmpnew:blocks/isotita",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

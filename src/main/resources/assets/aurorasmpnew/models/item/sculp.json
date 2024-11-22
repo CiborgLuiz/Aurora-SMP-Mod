@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/sculp",
+  "textures": {
+    "0": "aurorasmpnew:blocks/sculp",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

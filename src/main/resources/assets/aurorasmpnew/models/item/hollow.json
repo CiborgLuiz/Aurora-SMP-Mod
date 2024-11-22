@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/hollow",
+  "textures": {
+    "0": "aurorasmpnew:blocks/hollow",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

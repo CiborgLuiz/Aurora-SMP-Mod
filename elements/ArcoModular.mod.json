@@ -1,0 +1,42 @@
+{
+  "_fv": 39,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 1,
+    "texture": "thundering_pulse",
+    "customModelName": "thundering_pulse_standby:default",
+    "name": "§3§lArco Modular",
+    "specialInfo": [
+      "§6§lUm item de caracter SUPERIOR"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AuroraItens"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:FlechaMagica"
+    },
+    "shootConstantly": true,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "ArcoModularRangedItemUsed"
+    },
+    "bulletPower": 1.1,
+    "bulletDamage": 20.0,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:FlechaMagica"
+    },
+    "bulletModel": "Modelprojetilmagico",
+    "customBulletModelTexture": "spectral_arrow.png"
+  }
+}

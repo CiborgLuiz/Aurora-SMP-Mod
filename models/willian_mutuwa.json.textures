@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "willian_mutuwa",
+        "missing": "willian_mutuwa"
+      },
+      "name": "default"
+    }
+  }
+}

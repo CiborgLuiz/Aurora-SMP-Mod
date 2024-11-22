@@ -1,0 +1,29 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "foicetheclown",
+    "customModelName": "foicetheclown:default",
+    "name": "§4§lFoice dupla",
+    "specialInfo": [
+      "§6§lUm item de caracter SUPERIOR"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AuroraItens"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.9,
+    "enchantability": 22,
+    "damageVsEntity": 53.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

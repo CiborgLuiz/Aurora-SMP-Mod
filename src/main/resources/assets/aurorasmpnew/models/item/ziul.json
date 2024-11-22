@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/ziul",
+  "textures": {
+    "0": "aurorasmpnew:blocks/ziul",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

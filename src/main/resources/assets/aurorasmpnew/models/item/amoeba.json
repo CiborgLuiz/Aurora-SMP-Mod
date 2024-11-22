@@ -1,0 +1,8 @@
+{
+  "parent": "aurorasmpnew:custom/amoeba",
+  "textures": {
+    "0": "aurorasmpnew:blocks/tampa",
+    "1": "aurorasmpnew:blocks/amoebalogo",
+    "particle": "aurorasmpnew:items/amoebalogo"
+  }
+}

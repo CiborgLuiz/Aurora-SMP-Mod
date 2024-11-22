@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/espadao",
+  "textures": {
+    "1": "aurorasmpnew:blocks/espadao",
+    "particle": "aurorasmpnew:items/espadao"
+  }
+}

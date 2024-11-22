@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "aurorasmpnew:block/aurora_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "aurorasmpnew:block/aurora_dimension_portal_ns"
+    }
+  }
+}

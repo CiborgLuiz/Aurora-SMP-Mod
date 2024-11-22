@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/ruky",
+  "textures": {
+    "1": "aurorasmpnew:blocks/ruky",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

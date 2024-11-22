@@ -1,0 +1,21 @@
+repositories {
+maven {
+  url = "https://maven.theillusivec4.top/"
+  }
+}
+
+dependencies {
+  runtimeOnly fg.deobf("top.theillusivec4.curios:curios-forge:1.18.2-5.0.7.1")
+  compileOnly fg.deobf("top.theillusivec4.curios:curios-forge:1.18.2-5.0.7.1:api")
+}
+
+repositories {
+  maven {
+      url = 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
+  }
+}
+
+dependencies {
+  implementation fg.deobf('software.bernie.geckolib:geckolib-forge-1.18:3.0.57')
+}
+

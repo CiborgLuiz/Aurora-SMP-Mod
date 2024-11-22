@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "cristal_amarelo"
+      },
+      "name": "default"
+    }
+  }
+}

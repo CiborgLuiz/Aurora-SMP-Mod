@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/kairos",
+  "textures": {
+    "1": "aurorasmpnew:blocks/kairos",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/katanamain",
+  "textures": {
+    "2": "aurorasmpnew:blocks/katana",
+    "particle": "aurorasmpnew:items/katana"
+  }
+}

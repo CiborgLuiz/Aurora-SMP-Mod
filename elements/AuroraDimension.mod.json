@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "void"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.AIR"
+    },
+    "fluidBlock": {
+      "value": "Blocks.AIR"
+    },
+    "airColor": {
+      "value": -10092391,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.QUARTZ_BLOCK#0"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 1,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Aurora Dimension Portal Igniter",
+    "igniterTab": {
+      "value": "No creative tab entry"
+    },
+    "texture": "joinha",
+    "portalTexture": "portal",
+    "enablePortal": true
+  }
+}

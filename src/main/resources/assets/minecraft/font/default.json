@@ -1,0 +1,202 @@
+{
+    "providers": [
+        {
+            "chars": [
+                "①"
+            ],
+            "file": "tags/dono.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "②"
+            ],
+            "file": "logo/logo.png",
+            "ascent": 20,
+            "height": 60,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "③"
+            ],
+            "file": "tags/adm.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "④"
+            ],
+            "file": "tags/mod.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "⑤"
+            ],
+            "file": "tags/influencer.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "⑥"
+            ],
+            "file": "tags/entidade.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑦"
+            ],
+            "file": "tags/raposa.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑧"
+            ],
+            "file": "tags/player.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑨"
+            ],
+            "file": "tags/subdono.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑩"
+            ],
+            "file": "tags/vipferro.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑪"
+            ],
+            "file": "tags/vipouro.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑫"
+            ],
+            "file": "tags/vipdiamante.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑬"
+            ],
+            "file": "tags/vipnetherite.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑭"
+            ],
+            "file": "tags/vipsupreme.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑮"
+            ],
+            "file": "tags/raposavipferro.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑯"
+            ],
+            "file": "tags/raposavipouro.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑰"
+            ],
+            "file": "tags/raposavipdiamante.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑱"
+            ],
+            "file": "tags/raposavipnetherite.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑲"
+            ],
+            "file": "tags/raposavipsupreme.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "⑳"
+            ],
+            "file": "tags/aurora.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "Ⓑ"
+            ],
+            "file": "tags/presidente.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+     	{
+            "chars": [
+                "Ⓐ"
+            ],
+            "file": "raposas/coracao.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        }
+    ]
+}

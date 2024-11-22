@@ -1,0 +1,74 @@
+{
+  "_fv": 39,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "leviathan_helmet",
+    "enableBody": true,
+    "textureBody": "leviathan_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "leviathan_leggings",
+    "enableBoots": true,
+    "textureBoots": "leviathan_boots",
+    "creativeTab": {
+      "value": "CUSTOM:AuroraItens"
+    },
+    "armorTextureFile": "leviathan",
+    "helmetName": "§b§lLeviathan Helmet",
+    "bodyName": "§b§lLeviathan Body",
+    "leggingsName": "§b§lLeviathan Leggings",
+    "bootsName": "§b§lLeviathan Boots",
+    "helmetSpecialInfo": [
+      "§6§lUm item de caracter SUPERIOR"
+    ],
+    "bodySpecialInfo": [
+      "§6§lUm item de caracter SUPERIOR"
+    ],
+    "leggingsSpecialInfo": [
+      "§6§lUm item de caracter SUPERIOR"
+    ],
+    "bootsSpecialInfo": [
+      "§6§lUm item de caracter SUPERIOR"
+    ],
+    "helmetModelName": "ModelLeviathan",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "leviathan_armor.png",
+    "bodyModelName": "ModelLeviathan",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "leviathan_armor.png",
+    "leggingsModelName": "ModelLeviathan",
+    "leggingsModelPartL": "RightLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "leviathan_armor.png",
+    "bootsModelName": "ModelLeviathan",
+    "bootsModelPartL": "LeftFoot",
+    "bootsModelPartR": "RightFoot",
+    "bootsModelTexture": "leviathan_armor.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 0,
+    "damageValueHelmet": 12,
+    "damageValueBody": 17,
+    "damageValueLeggings": 14,
+    "damageValueBoots": 12,
+    "enchantability": 22,
+    "toughness": 5.0,
+    "knockbackResistance": 2.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

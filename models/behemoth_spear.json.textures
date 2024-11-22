@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lanca_behemoth"
+      },
+      "name": "default"
+    }
+  }
+}

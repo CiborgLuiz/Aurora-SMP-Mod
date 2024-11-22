@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 9,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.ARROW"
+      },
+      {
+        "value": "Items.ARROW"
+      },
+      {
+        "value": "Items.ARROW"
+      },
+      {
+        "value": "Items.ARROW"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.ARROW"
+      },
+      {
+        "value": "Items.ARROW"
+      },
+      {
+        "value": "Items.ARROW"
+      },
+      {
+        "value": "Items.ARROW"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FlechaMagica"
+    },
+    "name": "flecha_magica_recipe",
+    "namespace": "mod"
+  }
+}

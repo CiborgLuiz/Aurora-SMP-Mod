@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/cristal_verde",
+  "textures": {
+    "3": "aurorasmpnew:blocks/cristal_verde",
+    "particle": "aurorasmpnew:items/cristal"
+  }
+}

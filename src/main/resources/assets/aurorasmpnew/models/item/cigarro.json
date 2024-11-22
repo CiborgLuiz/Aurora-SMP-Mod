@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/cigarro",
+  "textures": {
+    "1": "aurorasmpnew:blocks/cigarro",
+    "particle": "aurorasmpnew:items/cigarro"
+  }
+}

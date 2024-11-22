@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/kammu",
+  "textures": {
+    "1": "aurorasmpnew:blocks/kammu",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

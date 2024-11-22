@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/manopla",
+  "textures": {
+    "1": "aurorasmpnew:blocks/manopla",
+    "particle": "aurorasmpnew:items/manopla"
+  }
+}

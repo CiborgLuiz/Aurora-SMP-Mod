@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/peitoral-item",
+  "textures": {
+    "0": "aurorasmpnew:blocks/peitoral",
+    "particle": "aurorasmpnew:items/peitoral"
+  }
+}

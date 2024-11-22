@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/suicciniv",
+  "textures": {
+    "1": "aurorasmpnew:blocks/suicciniv",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}
