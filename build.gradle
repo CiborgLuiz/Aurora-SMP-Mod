@@ -53,8 +53,6 @@ minecraft {
 
 dependencies {
     minecraft 'net.minecraftforge:forge:1.18.2-40.1.0'
-    implementation "de.maxhenkel.voicechat:voicechat-api:${voicechat_api_version}"
-    runtimeOnly fg.deobf("maven.modrinth:simple-voice-chat:forge-${voicechat_version}")
 }
 
 tasks.withType(JavaCompile).configureEach {
