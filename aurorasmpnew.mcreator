@@ -3,7 +3,7 @@
     {
       "name": "AuroraItens",
       "type": "tab",
-      "sortid": 16,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aurora_itens",
@@ -15,7 +15,7 @@
     {
       "name": "AsasDeAnjo",
       "type": "animatedarmor",
-      "sortid": 1,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "asas_de_anjo",
@@ -32,7 +32,7 @@
     {
       "name": "AsasDeAnjoBodyTickEvent",
       "type": "procedure",
-      "sortid": 17,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "asas_de_anjo_body_tick_event",
@@ -56,7 +56,7 @@
     {
       "name": "FlyEffectStartedapplied",
       "type": "procedure",
-      "sortid": 18,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fly_effect_startedapplied",
@@ -76,7 +76,7 @@
     {
       "name": "FlyEffectExpires",
       "type": "procedure",
-      "sortid": 19,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fly_effect_expires",
@@ -96,7 +96,7 @@
     {
       "name": "Fly",
       "type": "potioneffect",
-      "sortid": 20,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fly",
@@ -110,7 +110,7 @@
     {
       "name": "JasonKatana",
       "type": "tool",
-      "sortid": 2,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jason_katana",
@@ -125,7 +125,7 @@
     {
       "name": "Bleeding",
       "type": "potioneffect",
-      "sortid": 21,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bleeding",
@@ -139,7 +139,7 @@
     {
       "name": "Bleedingprocedureeffect",
       "type": "procedure",
-      "sortid": 22,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bleedingprocedureeffect",
@@ -163,7 +163,7 @@
     {
       "name": "JasonKatanaLivingEntityIsHitWithTool",
       "type": "procedure",
-      "sortid": 23,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jason_katana_living_entity_is_hit_with_tool",
@@ -183,7 +183,7 @@
     {
       "name": "CigarroRightclicked",
       "type": "procedure",
-      "sortid": 24,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cigarro_rightclicked",
@@ -203,7 +203,7 @@
     {
       "name": "Cigarro",
       "type": "item",
-      "sortid": 13,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cigarro",
@@ -218,7 +218,7 @@
     {
       "name": "Manopla",
       "type": "tool",
-      "sortid": 3,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "manopla",
@@ -233,7 +233,7 @@
     {
       "name": "FoiceTheClown",
       "type": "tool",
-      "sortid": 4,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "foice_the_clown",
@@ -248,7 +248,7 @@
     {
       "name": "BehemothSpear",
       "type": "rangeditem",
-      "sortid": 5,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "behemoth_spear",
@@ -265,7 +265,7 @@
     {
       "name": "BehemothSpearRangedItemUsed",
       "type": "procedure",
-      "sortid": 25,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "behemoth_spear_ranged_item_used",
@@ -285,7 +285,7 @@
     {
       "name": "TridenteModular",
       "type": "rangeditem",
-      "sortid": 6,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tridente_modular",
@@ -302,7 +302,7 @@
     {
       "name": "TridenteModularRangedItemUsed",
       "type": "procedure",
-      "sortid": 26,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tridente_modular_ranged_item_used",
@@ -322,7 +322,7 @@
     {
       "name": "EspadaModular",
       "type": "tool",
-      "sortid": 7,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "espada_modular",
@@ -337,7 +337,7 @@
     {
       "name": "PeitoralModularBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 27,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peitoral_modular_bauble_is_equipped",
@@ -357,7 +357,7 @@
     {
       "name": "PeitoralModularBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 28,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peitoral_modular_bauble_is_unequipped",
@@ -377,7 +377,7 @@
     {
       "name": "PeitoralModular",
       "type": "curiosbauble",
-      "sortid": 8,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peitoral_modular",
@@ -393,7 +393,7 @@
     {
       "name": "FlechaMagica",
       "type": "item",
-      "sortid": 12,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "flecha_magica",
@@ -408,7 +408,7 @@
     {
       "name": "FlechaMagicaRecipe",
       "type": "recipe",
-      "sortid": 29,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "flecha_magica_recipe",
@@ -422,7 +422,7 @@
     {
       "name": "ArcoModularRangedItemUsed",
       "type": "procedure",
-      "sortid": 30,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "arco_modular_ranged_item_used",
@@ -442,7 +442,7 @@
     {
       "name": "ArcoModular",
       "type": "rangeditem",
-      "sortid": 9,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "arco_modular",
@@ -459,7 +459,7 @@
     {
       "name": "Leviathan",
       "type": "armor",
-      "sortid": 10,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "leviathan",
@@ -477,7 +477,7 @@
     {
       "name": "LeviathanScale",
       "type": "item",
-      "sortid": 11,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "leviathan_scale",
@@ -492,7 +492,7 @@
     {
       "name": "AMOEBARightclicked",
       "type": "procedure",
-      "sortid": 31,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "amoeba_rightclicked",
@@ -528,7 +528,7 @@
     {
       "name": "AMOEBA",
       "type": "item",
-      "sortid": 14,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "amoeba",
@@ -543,7 +543,7 @@
     {
       "name": "TiaraBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 32,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tiara_bauble_is_equipped",
@@ -563,7 +563,7 @@
     {
       "name": "TiaraBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 33,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tiara_bauble_is_unequipped",
@@ -583,7 +583,7 @@
     {
       "name": "Tiara",
       "type": "curiosbauble",
-      "sortid": 34,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tiara",
@@ -599,7 +599,7 @@
     {
       "name": "CristalAmarelo",
       "type": "curiosbauble",
-      "sortid": 35,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_amarelo",
@@ -614,7 +614,7 @@
     {
       "name": "CristalAzul",
       "type": "curiosbauble",
-      "sortid": 36,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_azul",
@@ -629,7 +629,7 @@
     {
       "name": "CristalBranco",
       "type": "curiosbauble",
-      "sortid": 37,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_branco",
@@ -644,7 +644,7 @@
     {
       "name": "CristalCiano",
       "type": "curiosbauble",
-      "sortid": 38,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_ciano",
@@ -659,7 +659,7 @@
     {
       "name": "CristalLaranja",
       "type": "curiosbauble",
-      "sortid": 39,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_laranja",
@@ -674,7 +674,7 @@
     {
       "name": "CristalRoxo",
       "type": "curiosbauble",
-      "sortid": 40,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_roxo",
@@ -689,7 +689,7 @@
     {
       "name": "CristalVerde",
       "type": "curiosbauble",
-      "sortid": 41,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_verde",
@@ -704,7 +704,7 @@
     {
       "name": "CristalVermelho",
       "type": "curiosbauble",
-      "sortid": 42,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_vermelho",
@@ -719,7 +719,7 @@
     {
       "name": "CristalPreto",
       "type": "curiosbauble",
-      "sortid": 43,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_preto",
@@ -734,7 +734,7 @@
     {
       "name": "CristalAmareloWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 44,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_amarelo_while_bauble_is_equipped_tick",
@@ -754,7 +754,7 @@
     {
       "name": "CristalAzulWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 45,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_azul_while_bauble_is_equipped_tick",
@@ -774,7 +774,7 @@
     {
       "name": "CristalBrancoWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 46,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_branco_while_bauble_is_equipped_tick",
@@ -794,7 +794,7 @@
     {
       "name": "CristalCianoWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 49,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_ciano_while_bauble_is_equipped_tick",
@@ -814,7 +814,7 @@
     {
       "name": "CristalLaranjaWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 50,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_laranja_while_bauble_is_equipped_tick",
@@ -834,7 +834,7 @@
     {
       "name": "CristalRoxoBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 51,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_roxo_bauble_is_equipped",
@@ -854,7 +854,7 @@
     {
       "name": "CristalRoxoBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 52,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_roxo_bauble_is_unequipped",
@@ -874,7 +874,7 @@
     {
       "name": "CristalVerdeBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 53,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_verde_bauble_is_equipped",
@@ -894,7 +894,7 @@
     {
       "name": "CristalVerdeBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 54,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_verde_bauble_is_unequipped",
@@ -914,7 +914,7 @@
     {
       "name": "CristalVerdeWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 55,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_verde_while_bauble_is_equipped_tick",
@@ -934,7 +934,7 @@
     {
       "name": "CristalVermelhoBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 56,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_vermelho_bauble_is_equipped",
@@ -954,7 +954,7 @@
     {
       "name": "CristalVermelhoBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 57,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_vermelho_bauble_is_unequipped",
@@ -974,7 +974,7 @@
     {
       "name": "CristalVermelhoWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 58,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_vermelho_while_bauble_is_equipped_tick",
@@ -994,7 +994,7 @@
     {
       "name": "CristalPretoWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 59,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_preto_while_bauble_is_equipped_tick",
@@ -1014,7 +1014,7 @@
     {
       "name": "CristalPretoBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 60,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_preto_bauble_is_equipped",
@@ -1034,7 +1034,7 @@
     {
       "name": "CristalPretoBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 61,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_preto_bauble_is_unequipped",
@@ -1054,6 +1054,7 @@
     {
       "name": "ItensModulares",
       "type": "tag",
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itens_modulares",
@@ -1067,6 +1068,7 @@
     {
       "name": "ItensModularesKey",
       "type": "keybind",
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itens_modulares_key",
@@ -1080,6 +1082,7 @@
     {
       "name": "ItensModularesGUI",
       "type": "gui",
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itens_modulares_gui",
@@ -1095,7 +1098,7 @@
     {
       "name": "ItensModularesKeyOnKeyPressed",
       "type": "procedure",
-      "sortid": 62,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itens_modulares_key_on_key_pressed",
@@ -1131,7 +1134,7 @@
     {
       "name": "Itensmodulares1",
       "type": "procedure",
-      "sortid": 63,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itensmodulares_1",
@@ -1151,7 +1154,7 @@
     {
       "name": "Itensmodulares4",
       "type": "procedure",
-      "sortid": 64,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itensmodulares_4",
@@ -1171,7 +1174,7 @@
     {
       "name": "Itensmodulares2",
       "type": "procedure",
-      "sortid": 65,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itensmodulares_2",
@@ -1191,7 +1194,7 @@
     {
       "name": "Itensmodulares3",
       "type": "procedure",
-      "sortid": 66,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itensmodulares_3",
@@ -1211,7 +1214,7 @@
     {
       "name": "Itensmodularesprocedure",
       "type": "procedure",
-      "sortid": 67,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itensmodularesprocedure",
@@ -1231,7 +1234,7 @@
     {
       "name": "AuroraDimension",
       "type": "dimension",
-      "sortid": 68,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aurora_dimension",
@@ -1255,7 +1258,7 @@
     {
       "name": "Hollow",
       "type": "tool",
-      "sortid": 69,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hollow",
@@ -1270,7 +1273,7 @@
     {
       "name": "Isotita",
       "type": "tool",
-      "sortid": 70,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "isotita",
@@ -1285,7 +1288,7 @@
     {
       "name": "Typer",
       "type": "tool",
-      "sortid": 71,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "typer",
@@ -1300,7 +1303,7 @@
     {
       "name": "Warrion",
       "type": "tool",
-      "sortid": 72,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warrion",
@@ -1315,7 +1318,7 @@
     {
       "name": "Kairos",
       "type": "tool",
-      "sortid": 73,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kairos",
@@ -1330,7 +1333,7 @@
     {
       "name": "Ruky",
       "type": "tool",
-      "sortid": 74,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruky",
@@ -1345,7 +1348,7 @@
     {
       "name": "WillianMutuwa",
       "type": "tool",
-      "sortid": 75,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willian_mutuwa",
@@ -1360,7 +1363,7 @@
     {
       "name": "Sculp",
       "type": "tool",
-      "sortid": 76,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sculp",
@@ -1375,7 +1378,7 @@
     {
       "name": "Ziul",
       "type": "tool",
-      "sortid": 77,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ziul",
@@ -1390,7 +1393,7 @@
     {
       "name": "YunoBloodmoon",
       "type": "tool",
-      "sortid": 78,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yuno_bloodmoon",
@@ -1405,7 +1408,7 @@
     {
       "name": "Leobargue",
       "type": "tool",
-      "sortid": 79,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "leobargue",
@@ -1420,7 +1423,7 @@
     {
       "name": "Isakiel",
       "type": "tool",
-      "sortid": 80,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "isakiel",
@@ -1435,7 +1438,7 @@
     {
       "name": "Suicciniv",
       "type": "tool",
-      "sortid": 81,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "suicciniv",
@@ -1450,7 +1453,7 @@
     {
       "name": "Reven",
       "type": "tool",
-      "sortid": 82,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "reven",
@@ -1465,7 +1468,7 @@
     {
       "name": "Rumber",
       "type": "tool",
-      "sortid": 83,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rumber",
@@ -1480,7 +1483,7 @@
     {
       "name": "Aline",
       "type": "tool",
-      "sortid": 84,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aline",
@@ -1495,7 +1498,7 @@
     {
       "name": "Ray",
       "type": "tool",
-      "sortid": 85,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ray",
@@ -1510,7 +1513,7 @@
     {
       "name": "Dust",
       "type": "tool",
-      "sortid": 86,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dust",
@@ -1525,7 +1528,7 @@
     {
       "name": "Hotto",
       "type": "tool",
-      "sortid": 87,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hotto",
@@ -1540,7 +1543,7 @@
     {
       "name": "Kammu",
       "type": "tool",
-      "sortid": 88,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kammu",
@@ -1555,7 +1558,7 @@
     {
       "name": "Typhon",
       "type": "tool",
-      "sortid": 89,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "typhon",
@@ -1570,7 +1573,7 @@
     {
       "name": "ATY",
       "type": "tool",
-      "sortid": 90,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aty",
@@ -1585,7 +1588,7 @@
     {
       "name": "ATYPower",
       "type": "tool",
-      "sortid": 91,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aty_power",
@@ -1600,7 +1603,7 @@
     {
       "name": "Num",
       "type": "tool",
-      "sortid": 92,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "num",
@@ -1615,7 +1618,7 @@
     {
       "name": "Crucifixo",
       "type": "item",
-      "sortid": 93,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crucifixo",
@@ -1630,7 +1633,7 @@
     {
       "name": "CrucifixoRightclicked",
       "type": "procedure",
-      "sortid": 94,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crucifixo_rightclicked",
@@ -1664,54 +1667,16 @@
       "path": "~/Inferiores"
     },
     {
-      "name": "LivroQuePrevePassado",
-      "type": "animateditem",
-      "sortid": 95,
+      "name": "LivroPrevePassado",
+      "type": "item",
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "livro_que_preve_passado",
+      "registry_name": "livro_preve_passado",
       "metadata": {
         "files": [
-          "src/main/resources/assets/aurorasmpnew/models/item/livro_que_preve_passado.json",
-          "src/main/java/net/mcreator/aurorasmpnew/item/model/LivroQuePrevePassadoItemModel.java",
-          "src/main/java/net/mcreator/aurorasmpnew/item/renderer/LivroQuePrevePassadoItemRenderer.java",
-          "src/main/java/net/mcreator/aurorasmpnew/item/LivroQuePrevePassadoItem.java"
-        ]
-      },
-      "path": "~/Superiores"
-    },
-    {
-      "name": "LivroQuePrevePassadoRightclicked",
-      "type": "procedure",
-      "sortid": 96,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "livro_que_preve_passado_rightclicked",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/aurorasmpnew/procedures/LivroQuePrevePassadoRightclickedProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "itemstack",
-            "type": "itemstack"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
+          "src/main/resources/assets/aurorasmpnew/models/item/livro_preve_passado.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/LivroPrevePassadoItem.java"
         ]
       },
       "path": "~/Superiores"
@@ -1758,10 +1723,10 @@
       "item.aurorasmpnew.reven": "Reven",
       "item.aurorasmpnew.willian_mutuwa": "Willian Mutuwa",
       "item.aurorasmpnew.leviathan_leggings": "§b§lLeviathan Leggings",
-      "item.aurorasmpnew.manopla": "§7§lManopla",
       "item.aurorasmpnew.hotto": "Hotto",
-      "item.aurorasmpnew.crucifixo": "§fCrucifixo",
+      "item.aurorasmpnew.manopla": "§7§lManopla",
       "key.aurorasmpnew.itens_modulares_key": "Itens Modulares Menu",
+      "item.aurorasmpnew.crucifixo": "§fCrucifixo",
       "item.aurorasmpnew.asas_de_anjo_boots": "Asas De Anjo Boots",
       "item.aurorasmpnew.suicciniv": "Suicciniv",
       "item.aurorasmpnew.isotita": "Isótita",
@@ -1778,7 +1743,6 @@
       "item.aurorasmpnew.rumber": "Rumber",
       "item.aurorasmpnew.tiara": "§8§lTiara",
       "item.aurorasmpnew.warrion": "Warrion",
-      "item.aurorasmpnew.livro_que_preve_passado": "§5§lLivro que preve passado",
       "item.aurorasmpnew.cristal_ciano": "§b§lCristal Ciano",
       "item.aurorasmpnew.leviathan_boots": "§b§lLeviathan Boots",
       "item.aurorasmpnew.aty_power": "ATY Power",
@@ -1806,6 +1770,7 @@
       "item.aurorasmpnew.yuno_bloodmoon": "Yuno Bloodmoon",
       "item.aurorasmpnew.flecha_magica": "§lFlecha Magica",
       "item.aurorasmpnew.typhon": "Typhon",
+      "item.aurorasmpnew.livro_preve_passado": "§5§lLivro que preve passado",
       "item.aurorasmpnew.sculp": "Sculp",
       "item.aurorasmpnew.arco_modular": "§3§lArco Modular",
       "item.aurorasmpnew.ruky": "Ruky",

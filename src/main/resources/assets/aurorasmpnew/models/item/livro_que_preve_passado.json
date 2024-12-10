@@ -1,6 +1,0 @@
-{
-  "parent": "aurorasmpnew:displaysettings/livro.item",
-  "textures": {
-    "layer0": "aurorasmpnew:items/aurora_encyclopedia"
-  }
-}

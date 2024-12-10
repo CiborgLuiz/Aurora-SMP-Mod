@@ -4,7 +4,7 @@
   "definition": {
     "name": "Aurora Itens",
     "icon": {
-      "value": "CUSTOM:LivroQuePrevePassado"
+      "value": "CUSTOM:LivroPrevePassado"
     },
     "showSearch": true
   }

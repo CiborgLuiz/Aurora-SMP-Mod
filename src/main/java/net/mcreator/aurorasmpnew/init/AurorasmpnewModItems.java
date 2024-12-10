@@ -27,7 +27,7 @@ import net.mcreator.aurorasmpnew.item.RayItem;
 import net.mcreator.aurorasmpnew.item.PeitoralModularItem;
 import net.mcreator.aurorasmpnew.item.NumItem;
 import net.mcreator.aurorasmpnew.item.ManoplaItem;
-import net.mcreator.aurorasmpnew.item.LivroQuePrevePassadoItem;
+import net.mcreator.aurorasmpnew.item.LivroPrevePassadoItem;
 import net.mcreator.aurorasmpnew.item.LeviathanScaleItem;
 import net.mcreator.aurorasmpnew.item.LeviathanItem;
 import net.mcreator.aurorasmpnew.item.LeobargueItem;
@@ -64,6 +64,7 @@ import net.mcreator.aurorasmpnew.AurorasmpnewMod;
 
 public class AurorasmpnewModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, AurorasmpnewMod.MODID);
+	public static final RegistryObject<Item> LIVRO_PREVE_PASSADO = REGISTRY.register("livro_preve_passado", () -> new LivroPrevePassadoItem());
 	public static final RegistryObject<Item> JASON_KATANA = REGISTRY.register("jason_katana", () -> new JasonKatanaItem());
 	public static final RegistryObject<Item> MANOPLA = REGISTRY.register("manopla", () -> new ManoplaItem());
 	public static final RegistryObject<Item> FOICE_THE_CLOWN = REGISTRY.register("foice_the_clown", () -> new FoiceTheClownItem());
@@ -90,7 +91,6 @@ public class AurorasmpnewModItems {
 	public static final RegistryObject<Item> CRISTAL_VERDE = REGISTRY.register("cristal_verde", () -> new CristalVerdeItem());
 	public static final RegistryObject<Item> CRISTAL_VERMELHO = REGISTRY.register("cristal_vermelho", () -> new CristalVermelhoItem());
 	public static final RegistryObject<Item> CRISTAL_PRETO = REGISTRY.register("cristal_preto", () -> new CristalPretoItem());
-	public static final RegistryObject<Item> AURORA_DIMENSION = REGISTRY.register("aurora_dimension", () -> new AuroraDimensionItem());
 	public static final RegistryObject<Item> HOLLOW = REGISTRY.register("hollow", () -> new HollowItem());
 	public static final RegistryObject<Item> ISOTITA = REGISTRY.register("isotita", () -> new IsotitaItem());
 	public static final RegistryObject<Item> TYPER = REGISTRY.register("typer", () -> new TyperItem());
@@ -116,5 +116,5 @@ public class AurorasmpnewModItems {
 	public static final RegistryObject<Item> ATY_POWER = REGISTRY.register("aty_power", () -> new ATYPowerItem());
 	public static final RegistryObject<Item> NUM = REGISTRY.register("num", () -> new NumItem());
 	public static final RegistryObject<Item> CRUCIFIXO = REGISTRY.register("crucifixo", () -> new CrucifixoItem());
-	public static final RegistryObject<Item> LIVRO_QUE_PREVE_PASSADO = REGISTRY.register("livro_que_preve_passado", () -> new LivroQuePrevePassadoItem());
+	public static final RegistryObject<Item> AURORA_DIMENSION = REGISTRY.register("aurora_dimension", () -> new AuroraDimensionItem());
 }
