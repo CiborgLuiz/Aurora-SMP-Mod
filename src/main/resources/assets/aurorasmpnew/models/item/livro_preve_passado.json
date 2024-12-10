@@ -1,7 +1,0 @@
-{
-  "parent": "aurorasmpnew:custom/aurora_encyclopedia",
-  "textures": {
-    "2": "aurorasmpnew:blocks/aurora_encyclopedia",
-    "particle": "aurorasmpnew:items/aurora_encyclopedia"
-  }
-}

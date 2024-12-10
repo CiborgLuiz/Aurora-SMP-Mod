@@ -27,7 +27,7 @@ import net.mcreator.aurorasmpnew.item.RayItem;
 import net.mcreator.aurorasmpnew.item.PeitoralModularItem;
 import net.mcreator.aurorasmpnew.item.NumItem;
 import net.mcreator.aurorasmpnew.item.ManoplaItem;
-import net.mcreator.aurorasmpnew.item.LivroPrevePassadoItem;
+import net.mcreator.aurorasmpnew.item.LivroAuroraItem;
 import net.mcreator.aurorasmpnew.item.LeviathanScaleItem;
 import net.mcreator.aurorasmpnew.item.LeviathanItem;
 import net.mcreator.aurorasmpnew.item.LeobargueItem;
@@ -64,7 +64,7 @@ import net.mcreator.aurorasmpnew.AurorasmpnewMod;
 
 public class AurorasmpnewModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, AurorasmpnewMod.MODID);
-	public static final RegistryObject<Item> LIVRO_PREVE_PASSADO = REGISTRY.register("livro_preve_passado", () -> new LivroPrevePassadoItem());
+	public static final RegistryObject<Item> LIVRO_AURORA = REGISTRY.register("livro_aurora", () -> new LivroAuroraItem());
 	public static final RegistryObject<Item> JASON_KATANA = REGISTRY.register("jason_katana", () -> new JasonKatanaItem());
 	public static final RegistryObject<Item> MANOPLA = REGISTRY.register("manopla", () -> new ManoplaItem());
 	public static final RegistryObject<Item> FOICE_THE_CLOWN = REGISTRY.register("foice_the_clown", () -> new FoiceTheClownItem());

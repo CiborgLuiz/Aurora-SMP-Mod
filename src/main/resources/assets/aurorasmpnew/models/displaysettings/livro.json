@@ -112,5 +112,8 @@
         1.5
       ]
     }
+  },
+  "textures": {
+    "particle": "item/aurora_encyclopedia"
   }
 }

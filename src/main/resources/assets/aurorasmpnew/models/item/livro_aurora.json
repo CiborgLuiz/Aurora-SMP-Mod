@@ -1,0 +1,6 @@
+{
+  "parent": "aurorasmpnew:displaysettings/livro",
+  "textures": {
+    "layer0": "aurorasmpnew:items/livro"
+  }
+}
