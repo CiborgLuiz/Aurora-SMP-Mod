@@ -1667,16 +1667,58 @@
       "path": "~/Inferiores"
     },
     {
-      "name": "LivroPrevePassado",
-      "type": "item",
+      "name": "LivroAurora",
+      "type": "animateditem",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "livro_preve_passado",
+      "registry_name": "livro_aurora",
       "metadata": {
         "files": [
-          "src/main/resources/assets/aurorasmpnew/models/item/livro_preve_passado.json",
-          "src/main/java/net/mcreator/aurorasmpnew/item/LivroPrevePassadoItem.java"
+          "src/main/java/net/mcreator/aurorasmpnew/item/LivroAuroraItem.java",
+          "src/main/java/net/mcreator/aurorasmpnew/item/renderer/LivroAuroraItemRenderer.java",
+          "src/main/java/net/mcreator/aurorasmpnew/item/model/LivroAuroraItemModel.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/livro_aurora.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "LivroAuroraRightclicked",
+      "type": "procedure",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livro_aurora_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/LivroAuroraRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
         ]
       },
       "path": "~/Superiores"
@@ -1743,6 +1785,7 @@
       "item.aurorasmpnew.rumber": "Rumber",
       "item.aurorasmpnew.tiara": "§8§lTiara",
       "item.aurorasmpnew.warrion": "Warrion",
+      "item.aurorasmpnew.livro_aurora": "§5§lLivro que preve passado",
       "item.aurorasmpnew.cristal_ciano": "§b§lCristal Ciano",
       "item.aurorasmpnew.leviathan_boots": "§b§lLeviathan Boots",
       "item.aurorasmpnew.aty_power": "ATY Power",
@@ -1770,7 +1813,6 @@
       "item.aurorasmpnew.yuno_bloodmoon": "Yuno Bloodmoon",
       "item.aurorasmpnew.flecha_magica": "§lFlecha Magica",
       "item.aurorasmpnew.typhon": "Typhon",
-      "item.aurorasmpnew.livro_preve_passado": "§5§lLivro que preve passado",
       "item.aurorasmpnew.sculp": "Sculp",
       "item.aurorasmpnew.arco_modular": "§3§lArco Modular",
       "item.aurorasmpnew.ruky": "Ruky",

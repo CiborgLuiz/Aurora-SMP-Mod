@@ -6,7 +6,7 @@
 		},
 		"livro": {
 			"loop": "hold_on_last_frame",
-			"animation_length": 1.5,
+			"animation_length": 10.5,
 			"bones": {
 				"left": {
 					"rotation": {
@@ -15,6 +15,10 @@
 							"easing": "linear"
 						},
 						"1.5": {
+							"vector": [0, 80, 0],
+							"easing": "linear"
+						},
+						"10.5": {
 							"vector": [0, 80, 0],
 							"easing": "linear"
 						}
@@ -29,11 +33,15 @@
 						"1.5": {
 							"vector": [0, -80, 0],
 							"easing": "linear"
+						},
+						"10.5": {
+							"vector": [0, -80, 0],
+							"easing": "linear"
 						}
 					}
 				}
 			}
 		}
 	},
-	"azurelib_format_version": 2
+	"geckolib_format_version": 2
 }
