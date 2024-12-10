@@ -27,6 +27,7 @@ import net.mcreator.aurorasmpnew.item.RayItem;
 import net.mcreator.aurorasmpnew.item.PeitoralModularItem;
 import net.mcreator.aurorasmpnew.item.NumItem;
 import net.mcreator.aurorasmpnew.item.ManoplaItem;
+import net.mcreator.aurorasmpnew.item.LivroQuePrevePassadoItem;
 import net.mcreator.aurorasmpnew.item.LeviathanScaleItem;
 import net.mcreator.aurorasmpnew.item.LeviathanItem;
 import net.mcreator.aurorasmpnew.item.LeobargueItem;
@@ -53,7 +54,6 @@ import net.mcreator.aurorasmpnew.item.CristalAzulItem;
 import net.mcreator.aurorasmpnew.item.CristalAmareloItem;
 import net.mcreator.aurorasmpnew.item.CigarroItem;
 import net.mcreator.aurorasmpnew.item.BehemothSpearItem;
-import net.mcreator.aurorasmpnew.item.AuroraencyclopediaItem;
 import net.mcreator.aurorasmpnew.item.AuroraDimensionItem;
 import net.mcreator.aurorasmpnew.item.ArcoModularItem;
 import net.mcreator.aurorasmpnew.item.AlineItem;
@@ -80,7 +80,6 @@ public class AurorasmpnewModItems {
 	public static final RegistryObject<Item> FLECHA_MAGICA = REGISTRY.register("flecha_magica", () -> new FlechaMagicaItem());
 	public static final RegistryObject<Item> CIGARRO = REGISTRY.register("cigarro", () -> new CigarroItem());
 	public static final RegistryObject<Item> AMOEBA = REGISTRY.register("amoeba", () -> new AMOEBAItem());
-	public static final RegistryObject<Item> AURORAENCYCLOPEDIA = REGISTRY.register("auroraencyclopedia", () -> new AuroraencyclopediaItem());
 	public static final RegistryObject<Item> TIARA = REGISTRY.register("tiara", () -> new TiaraItem());
 	public static final RegistryObject<Item> CRISTAL_AMARELO = REGISTRY.register("cristal_amarelo", () -> new CristalAmareloItem());
 	public static final RegistryObject<Item> CRISTAL_AZUL = REGISTRY.register("cristal_azul", () -> new CristalAzulItem());
@@ -117,4 +116,5 @@ public class AurorasmpnewModItems {
 	public static final RegistryObject<Item> ATY_POWER = REGISTRY.register("aty_power", () -> new ATYPowerItem());
 	public static final RegistryObject<Item> NUM = REGISTRY.register("num", () -> new NumItem());
 	public static final RegistryObject<Item> CRUCIFIXO = REGISTRY.register("crucifixo", () -> new CrucifixoItem());
+	public static final RegistryObject<Item> LIVRO_QUE_PREVE_PASSADO = REGISTRY.register("livro_que_preve_passado", () -> new LivroQuePrevePassadoItem());
 }

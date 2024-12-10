@@ -1,21 +1,6 @@
 {
   "mod_elements": [
     {
-      "name": "Auroraencyclopedia",
-      "type": "item",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "auroraencyclopedia",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/aurorasmpnew/models/item/auroraencyclopedia.json",
-          "src/main/java/net/mcreator/aurorasmpnew/item/AuroraencyclopediaItem.java"
-        ]
-      },
-      "path": "~/Superiores"
-    },
-    {
       "name": "AuroraItens",
       "type": "tab",
       "sortid": 16,
@@ -1677,6 +1662,59 @@
         ]
       },
       "path": "~/Inferiores"
+    },
+    {
+      "name": "LivroQuePrevePassado",
+      "type": "animateditem",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livro_que_preve_passado",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/livro_que_preve_passado.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/model/LivroQuePrevePassadoItemModel.java",
+          "src/main/java/net/mcreator/aurorasmpnew/item/renderer/LivroQuePrevePassadoItemRenderer.java",
+          "src/main/java/net/mcreator/aurorasmpnew/item/LivroQuePrevePassadoItem.java"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "LivroQuePrevePassadoRightclicked",
+      "type": "procedure",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livro_que_preve_passado_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/LivroQuePrevePassadoRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superiores"
     }
   ],
   "variable_elements": [
@@ -1740,6 +1778,7 @@
       "item.aurorasmpnew.rumber": "Rumber",
       "item.aurorasmpnew.tiara": "§8§lTiara",
       "item.aurorasmpnew.warrion": "Warrion",
+      "item.aurorasmpnew.livro_que_preve_passado": "§5§lLivro que preve passado",
       "item.aurorasmpnew.cristal_ciano": "§b§lCristal Ciano",
       "item.aurorasmpnew.leviathan_boots": "§b§lLeviathan Boots",
       "item.aurorasmpnew.aty_power": "ATY Power",
@@ -1756,7 +1795,6 @@
       "item.aurorasmpnew.cristal_amarelo": "§e§lCristal Amarelo",
       "item.aurorasmpnew.cristal_vermelho": "§4§lCristal Vermelho",
       "item.aurorasmpnew.cigarro": "§f§lCigarro",
-      "item.aurorasmpnew.auroraencyclopedia": "§5§lAurora Encyclopedia",
       "item.aurorasmpnew.foice_the_clown": "§4§lFoice dupla",
       "item.aurorasmpnew.typer": "Typer",
       "item.aurorasmpnew.espada_modular": "§3§lEspada Modular",
