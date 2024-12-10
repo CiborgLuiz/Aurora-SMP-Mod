@@ -6,7 +6,7 @@
 		},
 		"livro": {
 			"loop": "hold_on_last_frame",
-			"animation_length": 600,
+			"animation_length": 10.5,
 			"bones": {
 				"left": {
 					"rotation": {
@@ -18,7 +18,7 @@
 							"vector": [0, 80, 0],
 							"easing": "linear"
 						},
-						"600.0": {
+						"10.5": {
 							"vector": [0, 80, 0],
 							"easing": "linear"
 						}
@@ -34,7 +34,7 @@
 							"vector": [0, -80, 0],
 							"easing": "linear"
 						},
-						"600.0": {
+						"10.5": {
 							"vector": [0, -80, 0],
 							"easing": "linear"
 						}
