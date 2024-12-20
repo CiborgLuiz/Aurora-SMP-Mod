@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "raio",
+    "customModelName": "Normal",
+    "name": "§6§lRaio",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:AuroraItens"
+    },
+    "stackSize": 64,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Blocks.AIR"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "raio.png",
+    "onBulletHitsBlock": {
+      "name": "RaioProjectileHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "RaioProjectileHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "RaioProjectileHitsBlock"
+    }
+  }
+}

@@ -9,6 +9,8 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.client.event.EntityRenderersEvent;
 import net.minecraftforge.api.distmarker.Dist;
 
+import net.minecraft.client.renderer.entity.ThrownItemRenderer;
+
 import net.mcreator.aurorasmpnew.client.renderer.TridenteModularRenderer;
 import net.mcreator.aurorasmpnew.client.renderer.BehemothSpearRenderer;
 import net.mcreator.aurorasmpnew.client.renderer.ArcoModularRenderer;
@@ -20,5 +22,6 @@ public class AurorasmpnewModEntityRenderers {
 		event.registerEntityRenderer(AurorasmpnewModEntities.BEHEMOTH_SPEAR.get(), BehemothSpearRenderer::new);
 		event.registerEntityRenderer(AurorasmpnewModEntities.TRIDENTE_MODULAR.get(), TridenteModularRenderer::new);
 		event.registerEntityRenderer(AurorasmpnewModEntities.ARCO_MODULAR.get(), ArcoModularRenderer::new);
+		event.registerEntityRenderer(AurorasmpnewModEntities.RAIO.get(), ThrownItemRenderer::new);
 	}
 }

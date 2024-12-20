@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "elu1",
+        "1": "elu2",
+        "2": "elu3",
+        "3": "elu4"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "brass_casing",
+        "1": "goggles_model",
+        "2": "black_stained_glass",
+        "3": "foguete",
+        "4": "texto",
+        "6": "bandeira",
+        "7": "lua"
+      },
+      "name": "default"
+    }
+  }
+}

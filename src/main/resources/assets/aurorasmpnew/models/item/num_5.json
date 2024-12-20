@@ -1,0 +1,11 @@
+{
+  "parent": "aurorasmpnew:custom/5",
+  "textures": {
+    "0": "aurorasmpnew:blocks/inner_handle",
+    "1": "aurorasmpnew:blocks/outer_handle",
+    "3": "aurorasmpnew:blocks/outer_blade",
+    "4": "aurorasmpnew:blocks/inner_blade",
+    "5": "aurorasmpnew:blocks/dark_gray",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

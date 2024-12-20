@@ -5,8 +5,7 @@
 			"loop": true
 		},
 		"livro": {
-			"loop": "hold_on_last_frame",
-			"animation_length": 10.5,
+			"animation_length": 1.5,
 			"bones": {
 				"left": {
 					"rotation": {
@@ -15,10 +14,6 @@
 							"easing": "linear"
 						},
 						"1.5": {
-							"vector": [0, 80, 0],
-							"easing": "linear"
-						},
-						"10.5": {
 							"vector": [0, 80, 0],
 							"easing": "linear"
 						}
@@ -33,8 +28,34 @@
 						"1.5": {
 							"vector": [0, -80, 0],
 							"easing": "linear"
+						}
+					}
+				}
+			}
+		},
+		"aberto": {
+			"loop": true,
+			"animation_length": 0.5,
+			"bones": {
+				"left": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 80, 0],
+							"easing": "linear"
 						},
-						"10.5": {
+						"0.5": {
+							"vector": [0, 80, 0],
+							"easing": "linear"
+						}
+					}
+				},
+				"right": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, -80, 0],
+							"easing": "linear"
+						},
+						"0.5": {
 							"vector": [0, -80, 0],
 							"easing": "linear"
 						}

@@ -1,0 +1,14 @@
+{
+  "parent": "aurorasmpnew:custom/aurorablock",
+  "textures": {
+    "all": "aurorasmpnew:blocks/lua",
+    "particle": "aurorasmpnew:blocks/lua",
+    "0": "aurorasmpnew:blocks/brass_casing",
+    "1": "aurorasmpnew:blocks/goggles_model",
+    "2": "aurorasmpnew:blocks/black_stained_glass",
+    "3": "aurorasmpnew:blocks/foguete",
+    "4": "aurorasmpnew:blocks/texto",
+    "6": "aurorasmpnew:blocks/bandeira",
+    "7": "aurorasmpnew:blocks/lua"
+  }
+}

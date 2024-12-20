@@ -3,7 +3,7 @@
     {
       "name": "AuroraItens",
       "type": "tab",
-      "sortid": 51,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aurora_itens",
@@ -32,7 +32,7 @@
     {
       "name": "AsasDeAnjoBodyTickEvent",
       "type": "procedure",
-      "sortid": 52,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "asas_de_anjo_body_tick_event",
@@ -56,7 +56,7 @@
     {
       "name": "FlyEffectStartedapplied",
       "type": "procedure",
-      "sortid": 53,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fly_effect_startedapplied",
@@ -76,7 +76,7 @@
     {
       "name": "FlyEffectExpires",
       "type": "procedure",
-      "sortid": 54,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fly_effect_expires",
@@ -96,7 +96,7 @@
     {
       "name": "Fly",
       "type": "potioneffect",
-      "sortid": 55,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fly",
@@ -125,7 +125,7 @@
     {
       "name": "Bleeding",
       "type": "potioneffect",
-      "sortid": 56,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bleeding",
@@ -139,7 +139,7 @@
     {
       "name": "Bleedingprocedureeffect",
       "type": "procedure",
-      "sortid": 57,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bleedingprocedureeffect",
@@ -163,7 +163,7 @@
     {
       "name": "JasonKatanaLivingEntityIsHitWithTool",
       "type": "procedure",
-      "sortid": 58,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jason_katana_living_entity_is_hit_with_tool",
@@ -183,7 +183,7 @@
     {
       "name": "CigarroRightclicked",
       "type": "procedure",
-      "sortid": 59,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cigarro_rightclicked",
@@ -265,7 +265,7 @@
     {
       "name": "BehemothSpearRangedItemUsed",
       "type": "procedure",
-      "sortid": 60,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "behemoth_spear_ranged_item_used",
@@ -302,7 +302,7 @@
     {
       "name": "TridenteModularRangedItemUsed",
       "type": "procedure",
-      "sortid": 61,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tridente_modular_ranged_item_used",
@@ -337,7 +337,7 @@
     {
       "name": "PeitoralModularBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 62,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peitoral_modular_bauble_is_equipped",
@@ -357,7 +357,7 @@
     {
       "name": "PeitoralModularBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 63,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peitoral_modular_bauble_is_unequipped",
@@ -408,7 +408,7 @@
     {
       "name": "FlechaMagicaRecipe",
       "type": "recipe",
-      "sortid": 64,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "flecha_magica_recipe",
@@ -422,7 +422,7 @@
     {
       "name": "ArcoModularRangedItemUsed",
       "type": "procedure",
-      "sortid": 65,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "arco_modular_ranged_item_used",
@@ -492,7 +492,7 @@
     {
       "name": "AMOEBARightclicked",
       "type": "procedure",
-      "sortid": 66,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "amoeba_rightclicked",
@@ -543,7 +543,7 @@
     {
       "name": "TiaraBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 67,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tiara_bauble_is_equipped",
@@ -563,7 +563,7 @@
     {
       "name": "TiaraBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 68,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tiara_bauble_is_unequipped",
@@ -734,7 +734,7 @@
     {
       "name": "CristalAmareloWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 69,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_amarelo_while_bauble_is_equipped_tick",
@@ -754,7 +754,7 @@
     {
       "name": "CristalAzulWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 70,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_azul_while_bauble_is_equipped_tick",
@@ -774,7 +774,7 @@
     {
       "name": "CristalBrancoWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 71,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_branco_while_bauble_is_equipped_tick",
@@ -794,7 +794,7 @@
     {
       "name": "CristalCianoWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 72,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_ciano_while_bauble_is_equipped_tick",
@@ -814,7 +814,7 @@
     {
       "name": "CristalLaranjaWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 73,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_laranja_while_bauble_is_equipped_tick",
@@ -834,7 +834,7 @@
     {
       "name": "CristalRoxoBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 74,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_roxo_bauble_is_equipped",
@@ -854,7 +854,7 @@
     {
       "name": "CristalRoxoBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 75,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_roxo_bauble_is_unequipped",
@@ -874,7 +874,7 @@
     {
       "name": "CristalVerdeBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 76,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_verde_bauble_is_equipped",
@@ -894,7 +894,7 @@
     {
       "name": "CristalVerdeBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 77,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_verde_bauble_is_unequipped",
@@ -914,7 +914,7 @@
     {
       "name": "CristalVerdeWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 78,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_verde_while_bauble_is_equipped_tick",
@@ -934,7 +934,7 @@
     {
       "name": "CristalVermelhoBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 79,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_vermelho_bauble_is_equipped",
@@ -954,7 +954,7 @@
     {
       "name": "CristalVermelhoBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 80,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_vermelho_bauble_is_unequipped",
@@ -974,7 +974,7 @@
     {
       "name": "CristalVermelhoWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 81,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_vermelho_while_bauble_is_equipped_tick",
@@ -994,7 +994,7 @@
     {
       "name": "CristalPretoWhileBaubleIsEquippedTick",
       "type": "procedure",
-      "sortid": 82,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_preto_while_bauble_is_equipped_tick",
@@ -1014,7 +1014,7 @@
     {
       "name": "CristalPretoBaubleIsEquipped",
       "type": "procedure",
-      "sortid": 83,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_preto_bauble_is_equipped",
@@ -1034,7 +1034,7 @@
     {
       "name": "CristalPretoBaubleIsUnequipped",
       "type": "procedure",
-      "sortid": 84,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cristal_preto_bauble_is_unequipped",
@@ -1054,7 +1054,7 @@
     {
       "name": "ItensModulares",
       "type": "tag",
-      "sortid": 85,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itens_modulares",
@@ -1068,7 +1068,7 @@
     {
       "name": "ItensModularesKey",
       "type": "keybind",
-      "sortid": 86,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itens_modulares_key",
@@ -1082,7 +1082,7 @@
     {
       "name": "ItensModularesGUI",
       "type": "gui",
-      "sortid": 87,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itens_modulares_gui",
@@ -1098,7 +1098,7 @@
     {
       "name": "ItensModularesKeyOnKeyPressed",
       "type": "procedure",
-      "sortid": 88,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itens_modulares_key_on_key_pressed",
@@ -1134,7 +1134,7 @@
     {
       "name": "Itensmodulares1",
       "type": "procedure",
-      "sortid": 89,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itensmodulares_1",
@@ -1154,7 +1154,7 @@
     {
       "name": "Itensmodulares4",
       "type": "procedure",
-      "sortid": 90,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itensmodulares_4",
@@ -1174,7 +1174,7 @@
     {
       "name": "Itensmodulares2",
       "type": "procedure",
-      "sortid": 91,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itensmodulares_2",
@@ -1194,7 +1194,7 @@
     {
       "name": "Itensmodulares3",
       "type": "procedure",
-      "sortid": 92,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itensmodulares_3",
@@ -1214,7 +1214,7 @@
     {
       "name": "Itensmodularesprocedure",
       "type": "procedure",
-      "sortid": 93,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "itensmodularesprocedure",
@@ -1234,7 +1234,7 @@
     {
       "name": "AuroraDimension",
       "type": "dimension",
-      "sortid": 94,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aurora_dimension",
@@ -1633,7 +1633,7 @@
     {
       "name": "CrucifixoRightclicked",
       "type": "procedure",
-      "sortid": 95,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crucifixo_rightclicked",
@@ -1686,7 +1686,7 @@
     {
       "name": "LivroAuroraRightclicked",
       "type": "procedure",
-      "sortid": 96,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "livro_aurora_rightclicked",
@@ -1722,6 +1722,294 @@
         ]
       },
       "path": "~/Superiores"
+    },
+    {
+      "name": "Durandal",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "durandal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/DurandalItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/durandal.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "MascaraBlackSilenceHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mascara_black_silence_helmet_tick_event",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/MascaraBlackSilenceHelmetTickEventProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "MascaraBlackSilence",
+      "type": "armor",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mascara_black_silence",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/MascaraBlackSilenceItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/mascara_black_silence_helmet.json"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "LivroAuroraAberto",
+      "type": "animateditem",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livro_aurora_aberto",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/model/LivroAuroraAbertoItemModel.java",
+          "src/main/java/net/mcreator/aurorasmpnew/item/renderer/LivroAuroraAbertoItemRenderer.java",
+          "src/main/java/net/mcreator/aurorasmpnew/item/LivroAuroraAbertoItem.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/livro_aurora_aberto.json"
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "LivroAuroraAbertoRightclicked",
+      "type": "procedure",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livro_aurora_aberto_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/LivroAuroraAbertoRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superiores"
+    },
+    {
+      "name": "AuroraBlock",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aurora_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/block/aurora_block.json",
+          "src/main/java/net/mcreator/aurorasmpnew/block/AuroraBlockBlock.java",
+          "src/main/resources/assets/aurorasmpnew/blockstates/aurora_block.json",
+          "src/main/resources/assets/aurorasmpnew/models/item/aurora_block.json"
+        ]
+      },
+      "path": "~/Nao Artefatos"
+    },
+    {
+      "name": "Num8",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "num_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/Num8Item.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/num_8.json"
+        ]
+      },
+      "path": "~/nightmare"
+    },
+    {
+      "name": "Num7",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "num_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/num_7.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/Num7Item.java"
+        ]
+      },
+      "path": "~/nightmare"
+    },
+    {
+      "name": "Num6",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "num_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/num_6.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/Num6Item.java"
+        ]
+      },
+      "path": "~/nightmare"
+    },
+    {
+      "name": "Num5",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "num_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/Num5Item.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/num_5.json"
+        ]
+      },
+      "path": "~/nightmare"
+    },
+    {
+      "name": "Num4",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "num_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/num_4.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/Num4Item.java"
+        ]
+      },
+      "path": "~/nightmare"
+    },
+    {
+      "name": "Num3",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "num_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/num_3.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/Num3Item.java"
+        ]
+      },
+      "path": "~/nightmare"
+    },
+    {
+      "name": "Num2",
+      "type": "tool",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "num_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/item/Num2Item.java",
+          "src/main/resources/assets/aurorasmpnew/models/item/num_2.json"
+        ]
+      },
+      "path": "~/nightmare"
+    },
+    {
+      "name": "Num1",
+      "type": "tool",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "num_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/num_1.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/Num1Item.java"
+        ]
+      },
+      "path": "~/nightmare"
+    },
+    {
+      "name": "DimensaoVazia",
+      "type": "dimension",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dimensao_vazia",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/aurorasmpnew/dimension_type/dimensao_vazia.json",
+          "src/main/java/net/mcreator/aurorasmpnew/world/dimension/DimensaoVaziaDimension.java",
+          "src/main/resources/data/aurorasmpnew/dimension/dimensao_vazia.json"
+        ]
+      },
+      "path": "~/Nao Artefatos"
+    },
+    {
+      "name": "Raio",
+      "type": "rangeditem",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raio",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/aurorasmpnew/models/item/raio.json",
+          "src/main/java/net/mcreator/aurorasmpnew/item/RaioItem.java",
+          "src/main/java/net/mcreator/aurorasmpnew/entity/RaioEntity.java"
+        ]
+      },
+      "path": "~/Inferiores"
+    },
+    {
+      "name": "RaioProjectileHitsBlock",
+      "type": "procedure",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raio_projectile_hits_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aurorasmpnew/procedures/RaioProjectileHitsBlockProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Inferiores"
     }
   ],
   "variable_elements": [
@@ -1729,6 +2017,12 @@
       "name": "voar",
       "type": "number",
       "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "livro",
+      "type": "number",
+      "scope": "map",
       "value": "0"
     }
   ],
@@ -1765,14 +2059,15 @@
       "item.aurorasmpnew.reven": "Reven",
       "item.aurorasmpnew.willian_mutuwa": "Willian Mutuwa",
       "item.aurorasmpnew.leviathan_leggings": "§b§lLeviathan Leggings",
-      "item.aurorasmpnew.manopla": "§7§lManopla",
       "item.aurorasmpnew.hotto": "Hotto",
+      "item.aurorasmpnew.manopla": "§7§lManopla",
       "item.aurorasmpnew.crucifixo": "§fCrucifixo",
       "key.aurorasmpnew.itens_modulares_key": "Itens Modulares Menu",
       "item.aurorasmpnew.asas_de_anjo_boots": "Asas De Anjo Boots",
       "item.aurorasmpnew.suicciniv": "Suicciniv",
       "item.aurorasmpnew.isotita": "Isótita",
       "item.aurorasmpnew.peitoral_modular": "§3§lPeitoral Modular",
+      "item.aurorasmpnew.durandal": "§8§lDurandal",
       "item.aurorasmpnew.tridente_modular": "§3§lTridente modular",
       "itemGroup.tabaurora_itens": "Aurora Itens",
       "item.aurorasmpnew.cristal_branco": "§f§lCristal Branco",
@@ -1791,7 +2086,9 @@
       "item.aurorasmpnew.aty_power": "ATY Power",
       "item.aurorasmpnew.isakiel": "Isakiel",
       "effect.aurorasmpnew.fly": "fly",
+      "item.aurorasmpnew.mascara_black_silence_helmet": "Mascara Black Silence",
       "item.aurorasmpnew.amoeba": "§a§lAMOEBA",
+      "item.aurorasmpnew.mascara_black_silence_boots": "Mascara Black Silence Boots",
       "item.aurorasmpnew.leviathan_scale": "§b§lLeviathan Scale",
       "item.aurorasmpnew.cristal_azul": "§1§lCristal Azul",
       "item.aurorasmpnew.leviathan_helmet": "§b§lLeviathan Helmet",
@@ -1799,18 +2096,29 @@
       "item.aurorasmpnew.jason_katana": "§4§lJason Katana",
       "item.aurorasmpnew.ziul": "Ziul",
       "item.aurorasmpnew.ray": "Ray",
+      "item.aurorasmpnew.dimensao_vazia": "Dimensao Vazia Portal Igniter",
       "item.aurorasmpnew.cristal_amarelo": "§e§lCristal Amarelo",
       "item.aurorasmpnew.cristal_vermelho": "§4§lCristal Vermelho",
       "item.aurorasmpnew.cigarro": "§f§lCigarro",
       "item.aurorasmpnew.foice_the_clown": "§4§lFoice dupla",
       "item.aurorasmpnew.typer": "Typer",
       "item.aurorasmpnew.espada_modular": "§3§lEspada Modular",
+      "item.aurorasmpnew.raio": "§6§lRaio",
       "item.aurorasmpnew.asas_de_anjo_leggings": "Asas De Anjo Leggings",
       "item.aurorasmpnew.aline": "Aline",
       "subtitles.encyclopediapage": "",
       "item.aurorasmpnew.cristal_preto": "§8§lCristal Preto",
+      "item.aurorasmpnew.mascara_black_silence_leggings": "Mascara Black Silence Leggings",
+      "item.aurorasmpnew.num_2": "§3§kservo nightmare",
+      "item.aurorasmpnew.num_3": "§3§kservo nightmare",
       "item.aurorasmpnew.asas_de_anjo_helmet": "Asas De Anjo Helmet",
+      "item.aurorasmpnew.num_4": "§3§kservo nightmare",
+      "item.aurorasmpnew.num_5": "§3§kservo nightmare",
+      "item.aurorasmpnew.num_6": "§3§kservo nightmare",
+      "item.aurorasmpnew.num_7": "§3§kservo nightmare",
+      "item.aurorasmpnew.num_8": "§3§kservo nightmare",
       "item.aurorasmpnew.yuno_bloodmoon": "Yuno Bloodmoon",
+      "item.aurorasmpnew.mascara_black_silence_chestplate": "Mascara Black Silence Body",
       "item.aurorasmpnew.flecha_magica": "§lFlecha Magica",
       "item.aurorasmpnew.typhon": "Typhon",
       "item.aurorasmpnew.sculp": "Sculp",
@@ -1822,8 +2130,11 @@
       "item.aurorasmpnew.cristal_verde": "§a§lCristal Verde",
       "item.aurorasmpnew.hollow": "Hollow",
       "subtitles.amoeba": "",
+      "item.aurorasmpnew.livro_aurora_aberto": "§5§lLivro que preve passado",
+      "block.aurorasmpnew.aurora_block": "Aurora Block",
       "item.aurorasmpnew.aty": "ATY",
-      "item.aurorasmpnew.aurora_dimension": "Aurora Dimension Portal Igniter"
+      "item.aurorasmpnew.aurora_dimension": "Aurora Dimension Portal Igniter",
+      "item.aurorasmpnew.num_1": "§3§kservo nightmare"
     }
   },
   "foldersRoot": {
@@ -1839,6 +2150,10 @@
       },
       {
         "name": "Nao Artefatos",
+        "children": []
+      },
+      {
+        "name": "nightmare",
         "children": []
       }
     ]

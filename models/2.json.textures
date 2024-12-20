@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "caladbolg",
+        "1": "lux1",
+        "2": "lux2",
+        "3": "lux3"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "aurorasmpnew:block/aurora_block"
+    },
+    "facing=east": {
+      "model": "aurorasmpnew:block/aurora_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "aurorasmpnew:block/aurora_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "aurorasmpnew:block/aurora_block",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "aurorasmpnew:block/aurora_block",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "aurorasmpnew:block/aurora_block",
+      "x": 90
+    }
+  }
+}

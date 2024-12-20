@@ -1,0 +1,7 @@
+{
+  "parent": "aurorasmpnew:custom/durandal",
+  "textures": {
+    "0": "aurorasmpnew:blocks/durandal",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

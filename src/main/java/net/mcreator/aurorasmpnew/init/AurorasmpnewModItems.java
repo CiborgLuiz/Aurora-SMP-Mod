@@ -8,7 +8,10 @@ import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.DeferredRegister;
 
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.aurorasmpnew.item.ZiulItem;
 import net.mcreator.aurorasmpnew.item.YunoBloodmoonItem;
@@ -24,9 +27,21 @@ import net.mcreator.aurorasmpnew.item.RumberItem;
 import net.mcreator.aurorasmpnew.item.RukyItem;
 import net.mcreator.aurorasmpnew.item.RevenItem;
 import net.mcreator.aurorasmpnew.item.RayItem;
+import net.mcreator.aurorasmpnew.item.RaioItem;
 import net.mcreator.aurorasmpnew.item.PeitoralModularItem;
 import net.mcreator.aurorasmpnew.item.NumItem;
+import net.mcreator.aurorasmpnew.item.Num8Item;
+import net.mcreator.aurorasmpnew.item.Num7Item;
+import net.mcreator.aurorasmpnew.item.Num6Item;
+import net.mcreator.aurorasmpnew.item.Num5Item;
+import net.mcreator.aurorasmpnew.item.Num4Item;
+import net.mcreator.aurorasmpnew.item.Num3Item;
+import net.mcreator.aurorasmpnew.item.Num2Item;
+import net.mcreator.aurorasmpnew.item.Num1Item;
+import net.mcreator.aurorasmpnew.item.MascaraBlackSilenceItem;
 import net.mcreator.aurorasmpnew.item.ManoplaItem;
+import net.mcreator.aurorasmpnew.item.LivroAuroraItem;
+import net.mcreator.aurorasmpnew.item.LivroAuroraAbertoItem;
 import net.mcreator.aurorasmpnew.item.LeviathanScaleItem;
 import net.mcreator.aurorasmpnew.item.LeviathanItem;
 import net.mcreator.aurorasmpnew.item.LeobargueItem;
@@ -41,6 +56,7 @@ import net.mcreator.aurorasmpnew.item.FoiceTheClownItem;
 import net.mcreator.aurorasmpnew.item.FlechaMagicaItem;
 import net.mcreator.aurorasmpnew.item.EspadaModularItem;
 import net.mcreator.aurorasmpnew.item.DustItem;
+import net.mcreator.aurorasmpnew.item.DurandalItem;
 import net.mcreator.aurorasmpnew.item.CrucifixoItem;
 import net.mcreator.aurorasmpnew.item.CristalVermelhoItem;
 import net.mcreator.aurorasmpnew.item.CristalVerdeItem;
@@ -63,7 +79,7 @@ import net.mcreator.aurorasmpnew.AurorasmpnewMod;
 
 public class AurorasmpnewModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, AurorasmpnewMod.MODID);
-	public static final RegistryObject<Item> LIVRO_PREVE_PASSADO = REGISTRY.register("livro_preve_passado", () -> new LivroPrevePassadoItem());
+	public static final RegistryObject<Item> LIVRO_AURORA = REGISTRY.register("livro_aurora", () -> new LivroAuroraItem());
 	public static final RegistryObject<Item> JASON_KATANA = REGISTRY.register("jason_katana", () -> new JasonKatanaItem());
 	public static final RegistryObject<Item> MANOPLA = REGISTRY.register("manopla", () -> new ManoplaItem());
 	public static final RegistryObject<Item> FOICE_THE_CLOWN = REGISTRY.register("foice_the_clown", () -> new FoiceTheClownItem());
@@ -115,5 +131,22 @@ public class AurorasmpnewModItems {
 	public static final RegistryObject<Item> ATY_POWER = REGISTRY.register("aty_power", () -> new ATYPowerItem());
 	public static final RegistryObject<Item> NUM = REGISTRY.register("num", () -> new NumItem());
 	public static final RegistryObject<Item> CRUCIFIXO = REGISTRY.register("crucifixo", () -> new CrucifixoItem());
+	public static final RegistryObject<Item> DURANDAL = REGISTRY.register("durandal", () -> new DurandalItem());
+	public static final RegistryObject<Item> MASCARA_BLACK_SILENCE_HELMET = REGISTRY.register("mascara_black_silence_helmet", () -> new MascaraBlackSilenceItem.Helmet());
+	public static final RegistryObject<Item> AURORA_BLOCK = block(AurorasmpnewModBlocks.AURORA_BLOCK, AurorasmpnewModTabs.TAB_AURORA_ITENS);
+	public static final RegistryObject<Item> RAIO = REGISTRY.register("raio", () -> new RaioItem());
+	public static final RegistryObject<Item> NUM_8 = REGISTRY.register("num_8", () -> new Num8Item());
+	public static final RegistryObject<Item> NUM_7 = REGISTRY.register("num_7", () -> new Num7Item());
+	public static final RegistryObject<Item> NUM_6 = REGISTRY.register("num_6", () -> new Num6Item());
+	public static final RegistryObject<Item> NUM_5 = REGISTRY.register("num_5", () -> new Num5Item());
+	public static final RegistryObject<Item> NUM_4 = REGISTRY.register("num_4", () -> new Num4Item());
+	public static final RegistryObject<Item> NUM_3 = REGISTRY.register("num_3", () -> new Num3Item());
+	public static final RegistryObject<Item> NUM_2 = REGISTRY.register("num_2", () -> new Num2Item());
+	public static final RegistryObject<Item> NUM_1 = REGISTRY.register("num_1", () -> new Num1Item());
 	public static final RegistryObject<Item> AURORA_DIMENSION = REGISTRY.register("aurora_dimension", () -> new AuroraDimensionItem());
+	public static final RegistryObject<Item> LIVRO_AURORA_ABERTO = REGISTRY.register("livro_aurora_aberto", () -> new LivroAuroraAbertoItem());
+
+	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
+		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
+	}
 }

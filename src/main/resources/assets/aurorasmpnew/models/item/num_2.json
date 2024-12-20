@@ -1,0 +1,10 @@
+{
+  "parent": "aurorasmpnew:custom/2",
+  "textures": {
+    "0": "aurorasmpnew:blocks/caladbolg",
+    "1": "aurorasmpnew:blocks/lux1",
+    "2": "aurorasmpnew:blocks/lux2",
+    "3": "aurorasmpnew:blocks/lux3",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}

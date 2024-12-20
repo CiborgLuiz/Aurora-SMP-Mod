@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "inner_handle",
+        "1": "outer_handle",
+        "3": "outer_blade",
+        "4": "inner_blade",
+        "5": "dark_gray"
+      },
+      "name": "default"
+    }
+  }
+}

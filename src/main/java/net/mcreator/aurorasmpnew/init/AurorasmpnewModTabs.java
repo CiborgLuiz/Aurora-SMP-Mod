@@ -17,7 +17,7 @@ public class AurorasmpnewModTabs {
 		TAB_AURORA_ITENS = new CreativeModeTab("tabaurora_itens") {
 			@Override
 			public ItemStack makeIcon() {
-				return new ItemStack(AurorasmpnewModItems.DELETED_MOD_ELEMENT.get());
+				return new ItemStack(AurorasmpnewModBlocks.AURORA_BLOCK.get());
 			}
 
 			@OnlyIn(Dist.CLIENT)

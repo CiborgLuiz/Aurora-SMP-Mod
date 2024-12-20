@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "li2",
+        "1": "li3",
+        "2": "li4",
+        "3": "li1",
+        "4": "li5"
+      },
+      "name": "default"
+    }
+  }
+}

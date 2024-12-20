@@ -1,0 +1,10 @@
+{
+  "parent": "aurorasmpnew:custom/1",
+  "textures": {
+    "0": "aurorasmpnew:blocks/elu1",
+    "1": "aurorasmpnew:blocks/elu2",
+    "2": "aurorasmpnew:blocks/elu3",
+    "3": "aurorasmpnew:blocks/elu4",
+    "particle": "aurorasmpnew:items/joinha"
+  }
+}
